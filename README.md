@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
