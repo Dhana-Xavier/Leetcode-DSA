@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [3612-process-string-with-special-operations-i](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
 ## Simulation
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0997-find-the-town-judge](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0997-find-the-town-judge) |
 ## Graph Theory
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0322-coin-change) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
