@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0127-word-ladder) |
+| [0187-repeated-dna-sequences](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3612-process-string-with-special-operations-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0127-word-ladder) |
+| [0187-repeated-dna-sequences](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0997-find-the-town-judge](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0997-find-the-town-judge) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Prefix Sum
 |  |
@@ -99,4 +102,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
