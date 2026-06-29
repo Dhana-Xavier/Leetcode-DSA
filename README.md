@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0997-find-the-town-judge](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0997-find-the-town-judge) |
 | [1732-find-the-highest-altitude](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
 ## Simulation
