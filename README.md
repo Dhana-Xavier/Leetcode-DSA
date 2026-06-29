@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3612-process-string-with-special-operations-i) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0997-find-the-town-judge](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0997-find-the-town-judge) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Prefix Sum
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
