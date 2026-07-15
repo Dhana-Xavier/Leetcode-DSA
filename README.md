@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Shortest Path
 |  |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
