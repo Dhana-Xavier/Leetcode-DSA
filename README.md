@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0997-find-the-town-judge](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0997-find-the-town-judge) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 | [1732-find-the-highest-altitude](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
