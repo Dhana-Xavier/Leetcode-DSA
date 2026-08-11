@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0997-find-the-town-judge](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0997-find-the-town-judge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Sliding Window
@@ -187,4 +189,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
