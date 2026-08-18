@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 | [1732-find-the-highest-altitude](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0997-find-the-town-judge](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0997-find-the-town-judge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Graph Theory
 |  |
