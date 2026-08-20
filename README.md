@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0039-combination-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0322-coin-change](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0997-find-the-town-judge](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0997-find-the-town-judge) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [1631-path-with-minimum-effort](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
