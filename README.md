@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
 | [1732-find-the-highest-altitude](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Shortest Path
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
 |  |
@@ -210,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/0494-target-sum) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Dhana-Xavier/Leetcode-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
